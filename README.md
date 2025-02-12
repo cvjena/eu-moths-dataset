@@ -37,3 +37,7 @@ https://inf-cv.uni-jena.de/home/research/datasets/eu_moths_dataset/
     
 - ``subset1_class_names.txt`` and ``subset1_class_names.txt``
     Proposed subsets of species as in the paper (Korsch et al., 2021)
+    
+- ``eu_moths_downloads.csv``
+    List of download links for retrieving additional training images for indicated species.
+    Each line corresponds to a species name and an URL for an image separated by a comma
