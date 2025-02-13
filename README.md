@@ -11,7 +11,7 @@ INFORMATIK 2021, Computer Science for Biodiversity Workshop (CS4Biodiversity). P
 DOI: [10.18420/informatik2021-036](https://dx.doi.org/10.18420/informatik2021-036)
 
 For more details visit the website of the dataset:
-https://inf-cv.uni-jena.de/home/research/datasets/eu_moths_dataset/
+https://inf-cv.uni-jena.de/eu_moths_dataset/
 
 ## Directory Information
 
