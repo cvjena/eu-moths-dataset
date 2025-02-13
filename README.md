@@ -8,6 +8,7 @@ Dimitri Korsch and Paul Bodesheim and Joachim Denzler.
 Deep Learning Pipeline for Automated Visual Moth Monitoring: Insect Localization and Species Classification
 Fine-grained Recognition Datasets for Biodiversity Analysis. 
 INFORMATIK 2021, Computer Science for Biodiversity Workshop (CS4Biodiversity). Pages 443-460. 2021.
+DOI: [10.18420/informatik2021-036](https://dx.doi.org/10.18420/informatik2021-036)
 
 For more details visit the website of the dataset:
 https://inf-cv.uni-jena.de/home/research/datasets/eu_moths_dataset/
